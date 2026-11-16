@@ -1,5 +1,9 @@
-# AOD+ — legal pages
+# AOD+ — legal pages (moved)
 
-Public site with the privacy policy and terms of use of AOD+: https://kinetraltd.github.io/aodplus-legal/
+The privacy policy and terms of use of AOD+ now live on the Kinetra website:
 
-The texts are written in the app's (private) repository, in `docs/`, and copied here by `tools/publish_legal.sh`.
+- https://kinetra.uk/aodplus/privacy/
+- https://kinetra.uk/aodplus/terms/
+
+This GitHub Pages site only redirects the old addresses there. The texts are written in the app's
+repository, in `docs/`, and published by its `tools/publish_legal.sh`.
